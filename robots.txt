@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://beaumonthealthcare.org/sitemap.xml
